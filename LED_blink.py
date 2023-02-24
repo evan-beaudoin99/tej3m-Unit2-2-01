@@ -1,6 +1,9 @@
-# SPDX-FileCopyrightText: 2021 Liz Clark for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
+#!/usr/bin/env python3
+"""
+Created by: Evan Beaudoin
+Created on: Feb 2023
+This is the "Hello, World!" module, with proper style
+"""
 
 import time
 import board
