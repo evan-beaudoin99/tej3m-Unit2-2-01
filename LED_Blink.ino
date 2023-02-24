@@ -1,5 +1,9 @@
-// C++ code
+// Copyright (c) 2023 Evan Beaudoin All rights reserved
 //
+// Created by: Evan Beaudoin
+// Created on: Feb 2023
+// This program makes an LED blink
+
 void setup()
 {
   pinMode(LED_BUILTIN, OUTPUT);
