@@ -2,7 +2,7 @@
 """
 Created by: Evan Beaudoin
 Created on: Feb 2023
-This is the "Hello, World!" module, with proper style
+This program makes an LED Blink
 """
 
 import time
